@@ -1,11 +1,10 @@
 package com.pearson.project.objects.pages;
 
-
 import org.openqa.selenium.WebDriver;
 
-public class PearsonMainPage extends BasePage {
+public class JoinCommunityPage extends BasePage {
 
-    public PearsonMainPage(WebDriver driver) {
+    public JoinCommunityPage(WebDriver driver) {
         super(driver);
     }
 }
